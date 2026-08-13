@@ -19,4 +19,4 @@ GitHub: https://github.com/rogerjdeangelis/utl-altair-slc-chapter-II-identifying
 GitHub: https://github.com/rogerjdeangelis/utl-altair-slc-chapter-III-verifying-training-logistic-using-holdout
 GitHub: https://github.com/rogerjdeangelis/utl-altair-slc-chapter-IV-key-outputs-from-the-final-logistic-model
  
-The ebbok is formated in markdown and as a pdf.
+The ebook is formatted in Markdown and as a pdf.
