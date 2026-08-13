@@ -1,6 +1,9 @@
 This ebook documents a complete logistic regression workflow, implemented across four GitHub
 repositories by Roger J. DeAngelis. The series demonstrates a systematic approach to:
 
+Too long to post, see
+https://github.com/rogerjdeangelis/utl-logistic-regression-ebook-linked-to-four-github-repositories-of-reproducible-sas-compatible-code
+    
 1. Optimum binning of both character and numeric covariates in preparation for logistic regression (Chapter I)
 2. Identifying the best five logistic models from all possible combinations of predictors (Chapter II)
 3. Verifying the training logistic model using a holdout sample (Chapter III)
