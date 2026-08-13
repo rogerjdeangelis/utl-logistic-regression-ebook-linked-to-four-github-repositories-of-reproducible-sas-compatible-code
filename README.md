@@ -10,11 +10,11 @@ This ebook documents a complete logistic regression workflow, implemented across
     4. Extracting and presenting key outputs from the final logistic model (Chapter IV)
     
     The methodology emphasizes interpretability, validation, and practical deployment. All code and examples are provided 
-    in SAS compatible code, with extensive use of macros and reproducible workflows.
+    in SAS-compatible code, with extensive use of macros and reproducible workflows.
     
     The repository text throughout this ebook is presented in a fixed font for clarity.
     I suggest readers use the enclosed ebook to acquaint themselves with the process, 
-    but spend more time implementing workflow using the four repositories
+    but spend more time implementing the workflow using the four repositories
     below.
     
     GitHub: https://github.com/rogerjdeangelis/utl-altair-slc-chapter-I-optimum-binning-in-preparation-for-logistic-regression
@@ -22,4 +22,4 @@ This ebook documents a complete logistic regression workflow, implemented across
     GitHub: https://github.com/rogerjdeangelis/utl-altair-slc-chapter-III-verifying-training-logistic-using-holdout
     GitHub: https://github.com/rogerjdeangelis/utl-altair-slc-chapter-IV-key-outputs-from-the-final-logistic-model
      
-    The ebook is formated in markdown and as a pdf.
+    The ebook is formatted in Markdown and as a pdf.
